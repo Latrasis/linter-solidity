@@ -1,13 +1,15 @@
 {
-  "name": "demo",
-  "main": "./lib/demo",
+  "name": "linter-solidity",
+  "main": "./lib/linter.js",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Linter support for Solidity",
   "keywords": [
+    "solidity",
+    "solc",
+    "ethereum",
+    "ether",
+    "linter"
   ],
-  "activationCommands": {
-    "atom-workspace": "demo:toggle"
-  },
   "repository": "https://github.com/atom/demo",
   "license": "MIT",
   "engines": {
