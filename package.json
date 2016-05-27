@@ -10,7 +10,7 @@
     "ether",
     "linter"
   ],
-  "repository": "https://github.com/atom/demo",
+  "repository": "https://github.com/Latrasis/linter-solidity",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
