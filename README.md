@@ -3,10 +3,7 @@
 Solidity Linter for Atom
 
 ## Installation
-Linter package must be installed in order to use this plugin. If Linter is not installed, please
-follow the instructions [here](https://github.com/AtomLinter/Linter).
-
-### Plugin installation
-```
+```bash
+$ apm install linter #(if you don't have AtomLinter/Linter installed).
 $ apm install linter-solidity
 ```
