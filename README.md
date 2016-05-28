@@ -1,4 +1,4 @@
-# linter-solidity
+# [linter-solidity](https://atom.io/packages/linter-solidity)
 
 Solidity Linter for Atom
 
