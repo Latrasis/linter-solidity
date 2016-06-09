@@ -1,6 +1,7 @@
 import "lary.sol";
 
 contract Sample {
+  using Lary for string;
   uint8 happy;
   mapping (uint8 => string) public happis;
 }
