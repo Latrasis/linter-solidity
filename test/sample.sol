@@ -1,3 +1,5 @@
+pragma solidity ^0.4.1;
+
 import "lary.sol";
 
 contract Sample {
