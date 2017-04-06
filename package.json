@@ -19,7 +19,7 @@
     "postinstall": "node ./formatSolc.js"
   },
   "dependencies": {
-    "solc": "^0.4.1",
+    "solc": "^0.4.10",
     "atom-linter": "^4.3.4"
   },
   "providedServices": {
